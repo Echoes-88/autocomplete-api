@@ -2,7 +2,7 @@
 
 'Autocomplete' is an API running on Node JS.
 
-The API render a json file with a maximum of 4 words matching between a data dictionary and a get request with parameters.
+The API renders a json file with a 4-word maximum matching a data dictionary with a get request with parameters.
 
 **exemple**
 
