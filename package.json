@@ -1,0 +1,19 @@
+{
+    "name": "autocomplete-api",
+    "version": "1.0",
+    "description": "This API is an autocomplete handler to use with a data dictionary and rendering a json file",
+    "main": "index.js",
+    "author": "ANSSI <communication@ssi.gouv.fr>",
+    "license": "ANSSI",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Echoes-88/autocomplete"
+    },
+    "keywords": [
+        "autocomplete",
+        "dictionary",
+        "node js",
+        "api"
+    ],
+    "homepage": "https://github.com/Echoes-88/autocomplete/blob/master/README.md"
+}
