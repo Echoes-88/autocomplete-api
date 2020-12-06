@@ -32,7 +32,7 @@ module.exports = {
                 // filter occurences matching with query
                 let finalResult = [...results.matchAll("\n" + letters.query + '.*')];
 
-                finalResult = finalResult.map(elt => elt[0])
+                finalResult = finalResult.map(elt => elt[0].replace('\n',''))
 
                 return (finalResult.length > 0) ? finalResult : 'aucune valeur correspondante';
             }
