@@ -44,7 +44,7 @@ john wayne
 }
 ```
 
-**! Important !** your file need to keep `/END/` line
+**! Important !** don't remove `/END/` line
 
 **- Call to the API** : 
 
