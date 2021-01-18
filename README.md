@@ -167,11 +167,3 @@ Exemple :
 "symmetric encryption algorithm"
 ]
 ```
-
-## NOTES
-
-J'ai réalisé un fichier package.json afin de donner des informations sur l'origine et le contenu de cette API.
-
-Je me suis mis dans la situation de salarié de l'ANSSI afin de déterminer l'auteur de l'application.
-
-Bien entendu ce repository restera privé et je vous assure de la suppression des réferences à l'ANSSI une fois l'exercice examiné.
